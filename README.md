@@ -36,7 +36,7 @@ After prepping and scaling the data this model uses two hidden layers and the "r
 
 This model's results are as shown in the screenshot below.
 
-![original_model_results](Images/original_model_results.png)
+![original_model_results](Images/orignial_model_results.png)
 
 ### Alternative Model 1
 
