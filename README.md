@@ -1,5 +1,5 @@
 # venture_capital_deep_learning_analysis
-This analysis uses feature data of multiple startups and applies deep neural network learning to predict which ones will be successful. 
+This analysis uses feature data from multiple startups and applies deep neural network learning to predict which ones will be successful. 
 
 ---
 
